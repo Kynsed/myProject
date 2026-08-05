@@ -32,3 +32,6 @@ C:\Users\kelvi\OneDrive\Documents\myProject\myProject\obj\Debug\net9.0\refint\my
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\obj\Debug\net9.0\myProject.pdb
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\obj\Debug\net9.0\myProject.genruntimeconfig.cache
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\obj\Debug\net9.0\ref\myProject.dll
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\test.png
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\test.data
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\map.txt

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj": {}
+    "C:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj": {
+    "C:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj",
+        "projectUniqueName": "C:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj",
         "projectName": "myProject",
-        "projectPath": "c:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj",
+        "projectPath": "C:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\myProject.csproj",
         "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\obj\\",
+        "outputPath": "C:\\Users\\kelvi\\OneDrive\\Documents\\myProject\\myProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
