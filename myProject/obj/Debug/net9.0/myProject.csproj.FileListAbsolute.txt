@@ -63,3 +63,4 @@ C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\A
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\slide.wav
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\step.wav
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\ui.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Graphics\tiles\rock.png
