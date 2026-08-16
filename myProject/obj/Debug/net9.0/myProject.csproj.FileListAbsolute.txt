@@ -52,3 +52,14 @@ C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\G
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Graphics\player\walk03.png
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Graphics\player\wallslide00.png
 C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Graphics\player.anim
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\sounds.txt
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\attack.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\dash.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\death.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\grab.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\hit.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\jump.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\land.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\slide.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\step.wav
+C:\Users\kelvi\OneDrive\Documents\myProject\myProject\bin\Debug\net9.0\Content\Audio\ui.wav
